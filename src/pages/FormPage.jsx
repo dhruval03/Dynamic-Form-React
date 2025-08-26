@@ -345,7 +345,7 @@ export default function FormPage({ onSubmit }) {
                   <option value="phone">Phone Number</option>
                   <option value="number">Number</option>
                   <option value="textarea">Long Text (Textarea)</option>
-                  <option value="radio">Multiple Choice (Radio)</option>
+                  <option value="radio">Radio Button</option>
                   <option value="checkbox">Checkboxes</option>
                 </select>
               </div>
